@@ -14,6 +14,8 @@ Building AI-native, browser-first software under **[Jaro](https://enciso.dev/pro
 
 **Mostly** TypeScript · Go · Terraform — comfortable across product, infrastructure, and the unglamorous AI plumbing (retrieval, grounding, tool-calling, evaluation).
 
+**Certifications** · [Applied Data Science Program — MIT Professional Education](https://credentials.professional.mit.edu/5de6e5eb-c371-449a-a62b-8ccfb7735200) · [Generative AI for NLP — Great Learning](https://www.mygreatlearning.com/certificate/XGZDCEDS)
+
 **Elsewhere** · [enciso.dev](https://enciso.dev) · [LinkedIn](https://www.linkedin.com/in/enrique-enciso/)
 
 <sub>Prefer to talk to an AI first? My site answers questions about my work from published content — grounded, private, no server.</sub>
