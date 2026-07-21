@@ -1,6 +1,6 @@
 ### Enrique Enciso
 
-Co-founder & CTO of **[Jaro](https://enciso.dev/projects/jaro)**, building **[Reley](https://enciso.dev/projects/reley)** — a portable, verified identity record for businesses, built for the era when AI agents transact on their behalf.
+Building **[Reley](https://enciso.dev/projects/reley)** — a portable, verified identity record for businesses, built for the era when AI agents transact on their behalf.
 
 The web indexed what companies *say* about themselves; it never indexed what *proves* it — insurance, tax standing, licenses, corporate records. Agents can already search, negotiate, and pay, but they still can't verify who's on the other side. Reley closes that gap, starting with the document verification that logistics and finance teams pay for today.
 
